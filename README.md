@@ -47,7 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Nashb7-69/Nashb7-69/output/snake.svg" alt="Snake animation" />
 
 ###
 
