@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpoNDA5M3V6aWd0dW90cDlpbG43NjJyd2V6emI5eXM0aHI2YXNlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij1WvlilscRFoIRn7u/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -45,20 +41,16 @@
 
 ###
 
-<br clear="both">
-
-
-###
-
 <div align="center">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nn0twmpl97wb7rn515g3x8scu) alt="Spotify Recently Played" />
-
+  <img src="https://profile-counter.glitch.me/Nashb7-69/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Nashb7-69/count.svg?"  />
+  <a href="https://open.spotify.com/user/nn0twmpl97wb7rn515g3x8scu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=nn0twmpl97wb7rn515g3x8scu&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
@@ -71,3 +63,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
+
+###
