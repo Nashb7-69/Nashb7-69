@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is nash and I'm from yemen</h2>
+<h2 align="left">Hi 👋! My name is nash and I'm from yemen i use Arch btw </h2>
 
 ###
 
